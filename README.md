@@ -6,6 +6,8 @@
 
 # Awesome Angular 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![Join the chat at https://gitter.im/kabircse/awesome-angular2](https://badges.gitter.im/kabircse/awesome-angular2.svg)](https://gitter.im/kabircse/awesome-angular2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Awesome list of [Angular 2](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular 2 ecosystem
 
 ##### Current Angular 2 version:
